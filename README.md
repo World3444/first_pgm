@@ -1,2 +1,10 @@
-# first_pgm
-Hello world 
+//# first_pgm
+//Hello world 
+
+#include<iostream>
+using namespace std ;
+int main()
+{
+cout<<" HELLO WORLD ;
+return 0 ;
+}
